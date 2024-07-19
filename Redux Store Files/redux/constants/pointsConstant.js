@@ -1,0 +1,5 @@
+export const ADD_POINTS_REQUEST = 'ADD_POINTS_REQUEST';
+export const ADD_POINTS_SUCCESS = 'ADD_POINTS_SUCCESS';
+export const ADD_POINTS_FAIL = 'ADD_POINTS_FAIL';
+
+export const SET_POINTS = 'SET_POINTS';
